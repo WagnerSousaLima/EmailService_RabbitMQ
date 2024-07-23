@@ -20,7 +20,7 @@ public class EmailModel implements Serializable {
     private long emailId;
 
     private String ownerRef;
-    private String emailRef;
+    private String emailFrom;
     private String emailTo;
     private String subject;
 
