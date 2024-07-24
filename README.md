@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <img src="main/resources/static/banner.png" alt="Banner Principal">
+  <img src="src/main/resources/static/banner.png" alt="Banner Principal">
 </p>
 </h1>
 
