@@ -39,6 +39,4 @@ public class EmailService {
             return emailRepository.save(emailModel);
         }
     }
-
-
 }
